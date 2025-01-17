@@ -9,7 +9,7 @@
 - `Documentation/`: Alla relevanta projekt- och tekniska dokumentationer.
 - `Images/`: Kopplingsscheman och andra visualiseringar.
 - `README.md`: Projektets sammanfattning och guide.
-- `LICENSE`: Licensinformation för projektet.
+- `LICENSE`: 
 
 ## **Hårdvara och Verktyg**
 - ESP32
