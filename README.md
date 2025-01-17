@@ -12,7 +12,7 @@
 - `LICENSE`: Licensinformation för projektet.
 
 ## **Hårdvara och Verktyg**
-- ESP32 och ESP8266
+- ESP32
 - WiFi Mesh-teknologi
 - Python-server för visualisering
 - 2.8" TFT-display och knappar för användargränssnitt
